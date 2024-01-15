@@ -5,6 +5,8 @@ public class Class1 {
 		
 		System.out.println("hello");
 				System.out.println("hello 1");
+				
+				System.out.println("testing");
 
 	}
 
