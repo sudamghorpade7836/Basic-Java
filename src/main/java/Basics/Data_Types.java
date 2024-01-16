@@ -63,6 +63,11 @@ public class Data_Types {
 		System.out.println("float : "+f);
 		System.out.println("double : "+d);
 		
+		
+		/*Non-Primitive Data Types
+		Non-primitive data types or reference data types refer to instances or objects. They cannot store the value of a variable directly in memory. They store a memory address of the variable. Unlike primitive data types we define by Java, non-primitive data types are user-defined. Programmers create them and can be assigned with null. All non-primitive data types are of equal size.*/
+
+
 	
 		
 
