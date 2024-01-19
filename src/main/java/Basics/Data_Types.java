@@ -65,12 +65,15 @@ public class Data_Types {
 		
 		
 		/*Non-Primitive Data Types
-		Non-primitive data types or reference data types refer to instances or objects. They cannot store the value of a variable directly in memory. They store a memory address of the variable. Unlike primitive data types we define by Java, non-primitive data types are user-defined. Programmers create them and can be assigned with null. All non-primitive data types are of equal size.*/
+		Non-primitive data types are called reference types because they refer to objects.
 
+		The main difference between primitive and non-primitive data types are:
 
-	//testing 
-		
-		System.out.println("hello");
+		Primitive types are predefined (already defined) in Java. Non-primitive types are created by the programmer and is not defined by Java (except for String).
+		Non-primitive types can be used to call methods to perform certain operations, while primitive types cannot.
+		A primitive type has always a value, while non-primitive types can be null.
+		A primitive type starts with a lowercase letter, while non-primitive types starts with an uppercase letter.
+		Examples of non-primitive types are Strings, Arrays, Classes, Interface, etc. You will learn more about these in a later chapter.*/
 		
 
 	}
