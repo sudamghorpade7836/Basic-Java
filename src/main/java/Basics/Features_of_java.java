@@ -21,6 +21,7 @@ garbage collector. Exception handling and garbage collection features make it st
 8.Distributed: Java also has networking facilities. It is designed for the distributed environment
  of the internet because it supports TCP/IP protocol. It can run over the internet. EJB and RMI are used to create a distributed system.
 9.Multi-threaded: Java also supports multi-threading. It means to handle more than one job a time.	
+testing
 	 
 	 */
 		
